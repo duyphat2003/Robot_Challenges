@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Use The Automation Challenge",
+  "Type": "Screen",
+  "Id": "B3XFS_3vhUqCbUfcixRgEQ",
+  "Reference": "4u_ZxI4kWEyhcJGuBvGpcg/B3XFS_3vhUqCbUfcixRgEQ",
+  "ParentRef": "4u_ZxI4kWEyhcJGuBvGpcg/6SAFPa5yhE6v5J7uW1Wn7Q",
+  "Created": "2024-09-02T03:13:45.1101506Z",
+  "Updated": "2024-09-02T03:13:45.1101506Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

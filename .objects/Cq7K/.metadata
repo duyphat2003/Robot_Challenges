@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use The Automation Challenge",
+  "Type": "App",
+  "Id": "Cq7KH6SxPUaZuAdOlDsmzQ",
+  "Reference": "4u_ZxI4kWEyhcJGuBvGpcg/Cq7KH6SxPUaZuAdOlDsmzQ",
+  "Created": "2024-09-02T03:13:45.0799133Z",
+  "Updated": "2024-09-02T03:13:45.0799133Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
